@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9361324b3c80e438906c0b77833e2c, type: 3}
+  m_Name: Sphere
+  m_EditorClassIdentifier: 
+  playerName: Sphere
+  playerDescription: Glass ball
+  playerLevel: 4
+  playerImage: {fileID: 21300000, guid: 42d3f97fda4f5be44b053dcb608e26dc, type: 3}
+  playerModel: {fileID: 9207476183976184256, guid: 597159e9ec1a164498a595381c677b6e, type: 3}

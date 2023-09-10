@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22ae6c1158f68204bb3a23824581fe53, type: 3}
+  m_Name: FourthMap
+  m_EditorClassIdentifier: 
+  mapIndex: 5
+  mapName: Fourth Map
+  mapDescription: Map with sand
+  nameColor: {r: 0.8018868, g: 0.698531, b: 0.44255075, a: 1}
+  mapImage: {fileID: 21300000, guid: 082340af5da6c4140b0823cddc7a1b2a, type: 3}
+  sceneToLoad: {fileID: 102900000, guid: 272d2e92842ec41439ade97a1cf5268b, type: 3}
